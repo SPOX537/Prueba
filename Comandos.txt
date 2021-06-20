@@ -19,4 +19,8 @@ Vim - editor dentro de vim
  	:wq - guardar y salir
 git pull - actualiza cambios con github
 git fetch
+git push - subir archivo
+git tag "nombre" -m "Descripcion" - insertar un tag
+git clone "url" - clonar repositorio
+
 
