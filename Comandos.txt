@@ -1,0 +1,22 @@
+git ini
+
+git commit
+
+http://git-scm.com/docs/git#_git_commands
+
+git status -s - ver archivos de carpeta git
+git add "nombre archivo" - agregar al git
+git commit -m "Descripcion aqui" - agrega una descripcion
+git log --oneline - nos muestra las instantaneas creadas
+git reset --hard "codigo de la instantanea" - restaura el archivo, poniendo el codigo de la instantanea
+git add . -agrega todos los archivos de la carpeta
+git commit -am "descripcion" - 
+git commit --amend - modificar descripcion o cualquier cosa con editor vim
+Vim - editor dentro de vim
+ 	:i - podemos empezar a editar
+ 	esc - salir del modo editor
+ 	enter - modificar cambios
+ 	:wq - guardar y salir
+git pull - actualiza cambios con github
+git fetch
+
