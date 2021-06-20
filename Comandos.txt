@@ -1,9 +1,8 @@
-git ini
 
-git commit
 
 http://git-scm.com/docs/git#_git_commands
 
+git init - comando para crear carpeta git
 git status -s - ver archivos de carpeta git
 git add "nombre archivo" - agregar al git
 git commit -m "Descripcion aqui" - agrega una descripcion
